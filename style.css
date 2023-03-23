@@ -1,0 +1,27 @@
+h2 {
+	color: greenyellow;
+	font-family: serif;
+	font-size: 60px;
+}
+
+h3 {
+	color: white;
+	font-family: sans-serif;
+	font-size: 30px;
+}
+
+body { 
+	
+	background-image: url("discoBackground.jpg");
+
+
+ }
+
+#clickMe {
+	background-color: lawngreen;
+}
+
+#orange {
+	background-color: orange;
+
+}
