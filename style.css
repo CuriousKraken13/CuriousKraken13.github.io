@@ -17,11 +17,29 @@ body {
 
  }
 
+ li {
+
+ 	color:whitesmoke;
+ }
+
+ a {
+
+ 	color: ghostwhite;
+
+ }
+
+ a:hover {
+
+ 	color:black;
+ 	font-size: 20px;
+ 	font-family: sans-serif;
+ }
+
 #clickMe {
-	background-color: lawngreen;
+	background-image: url("psychadelic.png");
 }
 
 #orange {
-	background-color: orange;
+	background-image: url("arcadeBottomFloor.png")
 
 }
