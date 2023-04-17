@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&family=Megrim&display=swap');
+
+
 
 .muzieknootjes {
   display: block;
@@ -63,26 +66,27 @@
 }
 
 h2 {
-	color: greenyellow;
-	font-family: serif;
+	color: rgb(252,100,4);
+	font-family: 'Megrim';
 	font-size: 60px;
 }
 
 h3 {
-	color: white;
-	font-family: sans-serif;
+	color: rgb(252,4,108);
+	font-family: 'Megrim';
 	font-size: 30px;
 }
 
 h4 {
-	color: forestgreen;
-	font-family: serif;
+	color: rgba(235,172,201,255);
+	font-family: 'Delius Unicase';
 	font-size: 20px;
 }
 
 body { 
 	
-	background-image: url("discoBackground.jpg");
+	background-color: rgb(164,100,180);
+	font-family: 'Delius Unicase';
 
 
 
@@ -90,28 +94,26 @@ body {
 
  li {
 
- 	color:whitesmoke;
+ 	color: rgb(252,4,108);
  }
 
  a {
 
- 	color: forestgreen;
- 	background: orange;
+ 	color: rgba(253, 0, 106, 255);
 
  }
 
  a:hover {
 
- 	color:black;
  	font-size: 20px;
- 	font-family: sans-serif;
+ 	
  }
 
-#clickMe {
-	background-image: url("psychadelic.png");
-}
+  a:visited {
 
-#orange {
-	background-image: url("arcadeBottomFloor.png")
+ 	color:rgba(123,237,201,255);
+ 	font-size: 13px;
+ 	font-family: sans-serif;
+ 	
+ }
 
-}
