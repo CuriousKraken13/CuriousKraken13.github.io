@@ -65,6 +65,13 @@
   }
 }
 
+td, th {
+
+	text-align: center;
+
+
+}
+
 h2 {
 	color: rgb(252,100,4);
 	font-family: 'Megrim';
